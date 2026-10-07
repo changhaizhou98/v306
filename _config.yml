@@ -3,7 +3,7 @@ booktitle: Proceedings of the 43rd International Conference on Machine Learning
 shortname: ICML
 volume: '306'
 year: '2026'
-start: &1 2026-07-06
+start: 2026-07-06
 end: 2026-07-11
 published: 2026-09-29
 conference_number: '43'
@@ -97,7 +97,7 @@ conference:
   url: https://icml.cc/Conferences/2026
   location: Seoul, South Korea
   dates:
-  - *1
+  - 2026-07-06
   - 2026-07-07
   - 2026-07-08
   - 2026-07-09
